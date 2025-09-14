@@ -3,6 +3,7 @@
 Calculates the fewest number of operations needed to reach n H characters.
 """
 
+
 def minOperations(n):
     if n < 2:
         return 0
